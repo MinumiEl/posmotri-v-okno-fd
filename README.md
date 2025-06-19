@@ -1,1 +1,1 @@
-https://github.com/MinumiEl/posmotri-v-okno-fd#
+https://github.com/MinumiEl/posmotri-v-okno-fd
