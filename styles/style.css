@@ -178,6 +178,7 @@ input{
 }
 
 .content__card-link_current{
+  display: block;
   background-color: #545050;
 }
 
